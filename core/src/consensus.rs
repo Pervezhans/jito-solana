@@ -1,5 +1,4 @@
 pub mod fork_choice;
-1
 pub mod heaviest_subtree_fork_choice;
 pub(crate) mod latest_validator_votes_for_frozen_banks;
 pub mod progress_map;
